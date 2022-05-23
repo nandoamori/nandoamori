@@ -1,7 +1,7 @@
 ### Olá, eu sou o Fernando Amorim 
 
 
-- 🔭 Hoje sou enfermeiro e estudo desenvolvimento web full stack
+- 🔭 Full-stack Web Developer (em andamento na Digital House)
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
