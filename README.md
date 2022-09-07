@@ -1,8 +1,8 @@
-### Olá, eu sou o Fernando Amorim 
+### Hello, I'm Fernando Amorim 
 
 
-- 🔭 Full-stack Web Developer (em andamento na Digital House)
-- 😄 Pronouns: Ele/Dele
+- 🔭 Full-stack Web Developer 
+- 😄 Pronouns: He/Him
 
 <div align="center">
   <a href="https://github.com/nandoamori">
@@ -13,6 +13,10 @@
   <img align="center" alt="Nando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nando-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Nando-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Nando-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Nando-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />      
+  <img align="center" alt="Nando-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
 </div>
   
   ##
